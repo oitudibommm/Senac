@@ -8,9 +8,9 @@ Usando **DART** e **FLUTTER**
 Espaço reservado em memória para armazenar um valor temporariamente 
 
 ### Tipos de variaveis 
-**String** - textos
-**int** -números inteiros
-**double** - números decimais
+- **String** - textos
+- **int** -números inteiros
+- **double** - números decimais
 
 Exemplo 1 - Tipo de variáveis
 

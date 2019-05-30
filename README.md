@@ -41,4 +41,58 @@ void main() {
 
 
 }
+```
+
+**Aula 2**
+
+```dart
+
+String nome, sobrenome, email, senha, cpf, endereco, sexo, celular, curso,  nome_social;
+   
+   int  ano_nasc, idade, qtd_moradores;
+  
+  double renda_familiar;
+  double renda_pessoa;
+  
+  
+  
+  nome = "Alana ";
+  sobrenome = "Anjo Costa Ferreira de Andrade";
+  email = "costaalana952@gmail.com";
+  senha = "cachorrogato";
+  cpf = "496.596.308.32";
+  endereco = " Rua Alice Milanez Ribeiro de Almeida";
+  sexo = "feminino";
+  celular = "(19)98972-5002";
+  curso = "Progamador De Dispositivos Móveis";
+  ano_nasc = 2004;
+  idade = 2019 - ano_nasc;
+  qtd_moradores = 3;
+  renda_familiar = 2000;
+  renda_pessoa = renda_familiar / qtd_moradores;
+  
+  
+  print("\n************************");
+  print("\nConfirmação de Cadastro");
+  print("**************************");
+  print("\nnome: $nome $sobrenome");
+  print("E-mail: $email");
+  print("Sexo: $sexo");
+  print("Celular: $celular");
+  print("Ano de nascimento: $ano_nasc");
+  print("Idade: $idade");
+  print("CPF: $cpf");
+  print("\n**************************");
+  print("*Informações Senac");
+  print("****************************");
+  print("\n**************************");
+  print("\nCurso: $curso");
+  print("Moraderos na mesma residencia: $qtd_moradores");
+  print("Renda Familiar: R\$ $renda_familiar");
+  print("renda por pessoa:R\$ ${renda_pessoa.toStringAsFixed(2)}");
+  
+
+}
+
+```
 

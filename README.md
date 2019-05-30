@@ -96,3 +96,44 @@ String nome, sobrenome, email, senha, cpf, endereco, sexo, celular, curso,  nome
 
 ```
 
+
+## Condição Lógica IF
+
+O IF serve para determinar se um bloco de instruções **deve** ou **não** ser executado, pode-se dizer que sempre que for necessário **testar** algum valor usaremos o *if* 
+
+
+### OPERADORAS LÒGICOS
+- == *Igualdade*
+- != *diferente*
+- >=  *maior ou igual*
+- <= *menor ou igual*
+- > *maior*
+- < *menor*
+
+### SINTEXE 
+
+```dart
+if(teste_lógico)
+{
+   //faz isso se o teste for verdadeiro
+}
+else
+{ 
+  //faz isso se o teste for falso 
+}
+```
+
+### Exeplo IF
+
+```dart
+string curso = "Programador android";
+
+if(curso == "Programador android")
+{
+    print ("parabéns, voce faz otimas escolhas.")
+}
+else
+}
+   print ("Vacilão, aposto que voce faz ADM. ")
+}
+```

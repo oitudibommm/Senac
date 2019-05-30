@@ -137,3 +137,26 @@ else
    print ("Vacilão, aposto que voce faz ADM. ")
 }
 ```
+
+
+
+ double nota1, nota2, media ;
+  
+  nota1 = 6;
+  nota2 = 8;
+  
+  
+  media = (nota1 + nota2) / 2;
+  
+  if(media >= 5)
+  {
+    print("aprovado com media $media");
+  }
+ else
+ {
+   print("reprovado com media $media");
+ }
+  
+
+  
+}

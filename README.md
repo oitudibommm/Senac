@@ -105,9 +105,9 @@ O IF serve para determinar se um bloco de instruções **deve** ou **não** ser 
 ### OPERADORAS LÒGICOS
 - == *Igualdade*
 - != *diferente*
-- >=  *maior ou igual*
+- \>=  *maior ou igual*
 - <= *menor ou igual*
-- > *maior*
+- \> *maior*
 - < *menor*
 
 ### SINTEXE 

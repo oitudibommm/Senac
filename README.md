@@ -37,6 +37,7 @@ void main() {
   
   print ("$nome vc tem $idade anos de vida");
   
+  
 
 
 
@@ -232,6 +233,32 @@ void main() {
 
 }
 ```
+
+void main() {
+	 
+	String cidade_natal;
+  
+  cidade_natal = "são paulo";
+  
+  if(cidade_natal.toLowerCase() == "são joão da boa vista")
+  {
+    print("São Joanense");
+  }
+  else if(cidade_natal.toLowerCase() == "poços de caldas")
+  {
+    print("Poços-Caldense");
+  }
+  else if(cidade_natal.toLowerCase() == "são paulo")
+  {
+    print("Paulista");
+  }
+  
+  else
+  {
+   	print("Cidade Não Cadastrada.");
+  }
+}
+
 
 
 

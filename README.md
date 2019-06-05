@@ -234,7 +234,29 @@ void main() {
 }
 ```
 
-void main() {
+## if aninhado ou if encadeado
+
+Quando temos mais do que 2 possiveis testes possiveis, é necessario alterar a estrutura e acrescentar um **else if** após o primeiro if
+
+```dart 
+if (teste)
+{
+  //faz isso 
+}
+else if (teste)
+{
+ //faz isso
+}
+else
+{
+ //nenhum dos anteriores
+}
+```
+
+## Exemplo if else if
+
+```dart
+   void main() {
 	 
 	String cidade_natal;
   
@@ -257,6 +279,8 @@ void main() {
   {
    	print("Cidade Não Cadastrada.");
   }
+```
+
 }
 
 

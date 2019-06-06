@@ -287,8 +287,19 @@ else
 
 OPERADORES LÒGICOS 
 
+### Operador E (AND) &&
+
+**Somente será Verdade se todas as expressões forem verdades
+
+### Operador OU (OR) ||
+
+Somente sera falso se todas as expressões forem falsas 
 
 
+```dart```dart
+
+### Exemplo teste boolseano
+ 
 void main() {
   
   bool var_a, var_b;
@@ -313,6 +324,7 @@ void main() {
   print(numero);
 }
 
+```
 
 
 

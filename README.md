@@ -283,6 +283,35 @@ else
 
 }
 
+## Aula 4 
+
+OPERADORES LÒGICOS 
+
+
+
+void main() {
+  
+  bool var_a, var_b;
+  
+  var_a = true;
+  
+  var_b = false;
+  
+  print((!var_a && var_a) || (var_b || !var_b));
+  
+
+  int numero = 10 ;
+  
+  if(var_a == var_b)
+  {
+    numero = 666;
+  }
+  else 
+  {
+    numero = numero + 1;
+  }
+  print(numero);
+}
 
 
 

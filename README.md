@@ -296,7 +296,7 @@ OPERADORES LÒGICOS
 Somente sera falso se todas as expressões forem falsas 
 
 
-```dart```dart
+```dart
 
 ### Exemplo teste boolseano
  
@@ -326,9 +326,9 @@ void main() {
 
 ```
 
-**AULA 5 - FUNÇÕES**
+## AULA 5 - FUNÇÕES
 
-```dart```dart
+```dart
 
 //Trabalhando com FUNÇOES
 void main() { 

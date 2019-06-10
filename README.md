@@ -326,7 +326,9 @@ void main() {
 
 ```
 
-AULA 5 
+**AULA 5 - FUNÇÕES**
+
+```dart```dart
 
 //Trabalhando com FUNÇOES
 void main() { 
@@ -378,7 +380,7 @@ void calcular(double novoNumero1, double novoNumero2, String operacao){
   print("O resultado é: $resposta");
 }
  
-
+```
 
 
 

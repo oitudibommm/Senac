@@ -396,7 +396,7 @@ Seguir os passos de instalacao que constituem basicamente de:
 
 **CRIAÇÃO DO PRIMEIRO APP**
 
-
+REGRA Nº 1: **Nunca feche a maquina virtual
 
 
 
